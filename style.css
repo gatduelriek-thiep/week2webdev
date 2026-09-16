@@ -1,0 +1,47 @@
+.budget{
+    color: blue;
+}
+#input{
+    color: whitesmoke;
+    background-color: black;
+}
+h2{
+    color: white;
+    background-color: red;
+}
+input{
+    padding: 10px;
+    border: 2px solid red;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 8px;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+thead{
+    background-color: black;
+    color: aliceblue;
+}
+tr:nth-child(even){
+    color: aliceblue;
+    background-color: green;
+}
+img{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+}
+button{
+    cursor: pointer;
+}
+tr:hover{
+    background-color: blue;
+    color: aliceblue;
+}
+input:focus{
+    background-color: blue;
+    color: aliceblue;
+}
